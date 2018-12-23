@@ -1,0 +1,7 @@
+name: Nail
+author: Neferett
+version: 1.0.1
+main: net.neferett.linaris.nail.NailPlugin
+commands:
+  nail:
+    permission: nail.admin
